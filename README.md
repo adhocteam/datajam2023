@@ -2,7 +2,7 @@
 ## Introduction
 We’ve created a tool to help make visible the interconnected nature of the Veteran population and VA facilities. For the limited scope of this DataJam, we’ve focused on a proof of concept that includes Veteran population by county over time, VA facility location, and appointment wait times year-to-year.
 
-- [🔎 Explore the tool on Tableau.](https://public.tableau.com/app/profile/ad.hoc.data.guild/viz/ConnectionscorrelationsVeteranpopulationandprimarycarewaittimes2015-2021/YoYPercentSlider)
+- [🔎 Explore the tool on Tableau.](https://public.tableau.com/app/profile/ad.hoc.data.guild/viz/ConnectionscorrelationsVeteranpopulationandprimarycarewaittimes2015-2021/VeteranPopulationCount)
 - [🎦 Watch the intro video.](https://drive.google.com/file/d/1Z41ENwJurBq4HljXeRpP-QJjUn58aE_q/view?usp=sharing)
 
 ## Setting the stage
