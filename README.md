@@ -1,3 +1,4 @@
+# Connections & correlations: veteran population and primary care wait times 2015-2021
 ## Introduction
 We’ve created a tool to help make visible the interconnected nature of the Veteran population and VA facilities. For the limited scope of this DataJam, we’ve focused on a proof of concept that includes Veteran population by county over time, VA facility location, and appointment wait times year-to-year.
 
