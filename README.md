@@ -2,7 +2,8 @@
 ## Introduction
 We’ve created a tool to help make visible the interconnected nature of the Veteran population and VA facilities. For the limited scope of this DataJam, we’ve focused on a proof of concept that includes Veteran population by county over time, VA facility location, and appointment wait times year-to-year.
 
-[Explore the tool on Tableau.](https://public.tableau.com/app/profile/ad.hoc.data.guild/viz/ConnectionscorrelationsVeteranpopulationandprimarycarewaittimes2015-2021/YoYPercentSlider)
+- [🔎 Explore the tool on Tableau.](https://public.tableau.com/app/profile/ad.hoc.data.guild/viz/ConnectionscorrelationsVeteranpopulationandprimarycarewaittimes2015-2021/YoYPercentSlider)
+- [🎦 Watch the intro video.](https://drive.google.com/file/d/1Z41ENwJurBq4HljXeRpP-QJjUn58aE_q/view?usp=sharing)
 
 ## Setting the stage
 In 2021, about 6.2 million of the total 9.2 million Veterans enrolled in health care sought care from VHA. Wait times varied sharply across VA’s 1284+ facilities (~171 medical centers, ~1113 VHA outpatient clinics).
@@ -41,19 +42,19 @@ The purpose of this tool is to enable VA researchers and other interested partie
 ## Data Note
 *Only counties with total populations of at least 20,000 are included.*
 
-### YoY Percent Slider
+### Veteran Population Percentage
 This view helps to identify counties with a high percentage of Veterans. It does this by showing the total population per county, the total Veteran population of that county, and the percentage of the total county population who are Veterans. All data is for the time period between 2025 and 2021, with 2020 excluded because no data was collected that year by VA. The color demonstrates the Veteran population’s density in a given county. 
 
-### YoY Total Number Slider
-This view is similar to the YoY Percent Slider but helps to identify counties with a large number of total Veterans. LA County in California is a good example of this – that county has a very high number of Veterans that make up a very small percentage of the total population.
+### Veteran Population Count
+This view is similar to the Veteran Population Percentage but helps to identify counties with a large number of total Veterans. LA County in California is a good example of this – that county has a very high number of Veterans that make up a very small percentage of the total population.
 
-### 2019-2021 % Delta
+### Veteran Population Change
 This view shows a more consolidated view of the previous tabs, but this time it highlights the change in Veteran percentage in a more tightly timeboxed timelord around the peak of the COVID-19 Pandemic.  
 
-### Location Only
+### VA Facility Location
 This view shows all VA facilities. The size of the facility’s dot on the map indicates the facility’s wait time in days.
 
-### Vet pop table and Wait data table
+### Veteran Population and VA Facility Wait Time tables
 These two table views offer more granular access to the raw data feeding the previous tabs.
 
 ## Who we are
