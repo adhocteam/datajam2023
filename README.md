@@ -2,6 +2,8 @@
 ## Introduction
 We’ve created a tool to help make visible the interconnected nature of the Veteran population and VA facilities. For the limited scope of this DataJam, we’ve focused on a proof of concept that includes Veteran population by county over time, VA facility location, and appointment wait times year-to-year.
 
+[Explore the tool on Tableau.](https://public.tableau.com/app/profile/ad.hoc.data.guild/viz/ConnectionscorrelationsVeteranpopulationandprimarycarewaittimes2015-2021/YoYPercentSlider)
+
 ## Setting the stage
 In 2021, about 6.2 million of the total 9.2 million Veterans enrolled in health care sought care from VHA. Wait times varied sharply across VA’s 1284+ facilities (~171 medical centers, ~1113 VHA outpatient clinics).
 
