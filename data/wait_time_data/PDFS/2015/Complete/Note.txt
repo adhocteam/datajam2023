@@ -1,0 +1,7 @@
+-Initial data published for 1/22/2015 contained an inaccuracy for the number of appointments scheduled for the clinics under the Gainesville, FL parent facility. Due to a transcription error, the facility names listed under the Gainesville parent facility were incorrectly populated.  We have corrected this transcription error and apologize for the confusion.
+
+-Pending Appointments (As of 2/15/15) and Completed Appointments (As of 1/31/15) were previously scheduled for release on March 5, 2015. VA did not post patient access data on March 5, 2015 due to an incomplete transmission of January 2015 appointment data from two facilities. This incomplete transmission of data resulted in underreporting the number of Veterans' appointments completed as well as associated wait times for those appointments. The reports VA is releasing today are updated with corrected information.
+
+-Initial Completed Appointments data published for April 2, 2015 contained an inaccuracy for the average wait for Mental Health appointments at a national level. This updated release has corrected the transcription error.
+
+-On October 30, 2015, VA updated Completed Appointments (As of 30 September 2015) to correct inaccuracies that resulted from recent facility name changes.
